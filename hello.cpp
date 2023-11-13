@@ -9,5 +9,6 @@ int main(int argc, char const *argv[])
     cin>>a;
     cout<<"Masz "<<a<<" lat"<<endl;
     cout<<"tesowanie brancha";
+    cout<<"Jakis tekst";
     return 0;
 }
