@@ -8,6 +8,7 @@ int main(int argc, char const *argv[])
     cout<<"Ile masz lat?"<<endl;
     cin>>a;
     cout<<"Masz "<<a<<" lat"<<endl;
-    cout<<"XDDD";
+    cout<<"XDDD"<<endl;
+    cout<<"tesowanie brancha";
     return 0;
 }
